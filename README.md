@@ -9,7 +9,7 @@
 ### 📌目录
 
 - [x] 第1篇 设计
-  - [x] [Chapter1.如何设计电商系统](https://github.com/zhangz1w3nCode/StorageSystemNote/blob/main/第1章-如何设计电商系统📌.md)
+  - [x] [Chapter1.如何设计电商系统](https://github.com/zhangz1w3nCode/StorageSystemNote/blob/main/第一篇-设计/第1章-如何设计电商系统📌.md)
   - [ ] [Chapter2.如何设计电商系统]()
 - [ ] 第2篇 高速增长
   - [ ] [Chapter1.简单动态字符串]()
