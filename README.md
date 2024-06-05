@@ -9,7 +9,7 @@
 ### 📌目录
 
 - [x] 第1篇 设计
-  - [x] [Chapter1.如何设计电商系统]()
+  - [x] [Chapter1.如何设计电商系统](https://github.com/zhangz1w3nCode/StorageSystemNote/blob/main/第1章-如何设计电商系统📌.md)
   - [ ] [Chapter2.如何设计电商系统]()
 - [ ] 第2篇 高速增长
-  - [x] [Chapter2.简单动态字符串](https://github.com/zhangz1w3nCode/RedisNote/blob/main/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E5%AF%B9%E8%B1%A1/第2章-简单动态字符串📌.md)
+  - [ ] [Chapter1.简单动态字符串]()
